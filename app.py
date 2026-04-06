@@ -14,7 +14,7 @@ with st.sidebar:
     st.divider()
     st.markdown("### Quick Links")
     st.write("[LinkedIn](https://linkedin.com/in/yourprofile)") # Update with your link
-    st.write("[GitHub](https://github.com/yourusername)")      # Update with your link
+    st.write("[GitHub](https://github.com/Divesh0312)")      # Update with your link
 
 # --- MAIN CONTENT ---
 st.title("Renewable Energy Management Work Profile")
